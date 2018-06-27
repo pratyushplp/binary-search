@@ -6,6 +6,7 @@ public interface binaryFace {
  public void sort();
  public void getValue();
  public void search(int value);
+ //test
 
  
 		
